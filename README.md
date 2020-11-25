@@ -4,12 +4,12 @@ M.Sc. student in physics at [NTNU](https://www.ntnu.edu/), specializing in conde
 I am hosting transcribed lecture notes for two different courses on my page:
 
 - **Quantum Theory of Solids**.
-  - **About:** [FY8302](https://www.ntnu.edu/studies/courses/FY8302)
   - **Repo:** [here](https://github.com/kklocker/kvast)
-- **Functional Integral Methods in Condensed Matter Physics**.
-  - **About:** [FY8305](https://www.ntnu.edu/studies/courses/FY8305)
-  - **Repo:** [here](https://github.com/kklocker/funksjonalintegralmetoder)
+  - **Info page:** [FY8302](https://www.ntnu.edu/studies/courses/FY8302)
 
+- **Functional Integral Methods in Condensed Matter Physics**.
+  - **Repo:** [here](https://github.com/kklocker/funksjonalintegralmetoder)
+  - **Info page:** [FY8305](https://www.ntnu.edu/studies/courses/FY8305)
 ---
  Follow me on [Twitter](https://twitter.com/Karlockert)
  
