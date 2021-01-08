@@ -1,4 +1,12 @@
 ### Hi there 👋
+<br />
+<a href="https://twitter.com/Karlockert">
+  <img align="left" alt="Karlockert" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/karlockert">
+  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<br />
 
 M.Sc. student in physics at [NTNU](https://www.ntnu.edu/), specializing in condensed matter and many-body theory. 
 I am hosting transcribed lecture notes for two different courses on my page:
@@ -11,9 +19,12 @@ I am hosting transcribed lecture notes for two different courses on my page:
   - **Repo:** [here](https://github.com/kklocker/funksjonalintegralmetoder)
   - **Info page:** [FY8305](https://www.ntnu.edu/studies/courses/FY8305)
 ---
- Follow me on [Twitter](https://twitter.com/Karlockert)
+
+
+
+ * Follow me on [Twitter](https://twitter.com/Karlockert)
  
- Reach me at karladlock@gmail.com or kklocker@stud.ntnu.no
+ * Reach me at karladlock@gmail.com or kklocker@stud.ntnu.no
  
 
 
