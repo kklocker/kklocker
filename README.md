@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hi there 👋
+
 <br />
 <a href="https://twitter.com/Karlockert">
   <img align="left" alt="Karlockert" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -8,7 +9,14 @@
 </a>
 <br />
 
-M.Sc. student in physics at [NTNU](https://www.ntnu.edu/), specializing in condensed matter and many-body theory. 
+#### About
+M.Sc. student in physics at [NTNU](https://www.ntnu.edu/), specializing in condensed matter and many-body theory.
+
+ * Follow me on [Twitter](https://twitter.com/Karlockert)
+ 
+ * Reach me at karladlock@gmail.com or kklocker@stud.ntnu.no
+ 
+#### Lecture notes
 I am hosting transcribed lecture notes for two different courses on my page:
 
 - **Quantum Theory of Solids**.
@@ -21,11 +29,6 @@ I am hosting transcribed lecture notes for two different courses on my page:
 ---
 
 
-
- * Follow me on [Twitter](https://twitter.com/Karlockert)
- 
- * Reach me at karladlock@gmail.com or kklocker@stud.ntnu.no
- 
 
 
 
