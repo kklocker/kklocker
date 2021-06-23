@@ -10,11 +10,12 @@
 <br />
 
 #### About
-M.Sc. student in physics at [NTNU](https://www.ntnu.edu/), specializing in condensed matter and many-body theory.
+
+MSc. in Physics from [NTNU](https://www.ntnu.edu/), specializing in condensed matter and many-body theory.
 
  * Follow me on [Twitter](https://twitter.com/Karlockert)
  
- * Reach me at karladlock@gmail.com or kklocker@stud.ntnu.no
+ * Reach me at karladlock (at) gmail.com or kklocker (at) stud.ntnu.no
  
 #### Lecture notes
 I am hosting transcribed lecture notes for two different courses on my page:
