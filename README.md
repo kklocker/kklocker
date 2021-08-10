@@ -11,7 +11,8 @@
 
 #### About
 
-MSc. in Physics from [NTNU](https://www.ntnu.edu/), specializing in condensed matter and many-body theory.
+MSc. in Physics -- Cond.mat from [NTNU](https://www.ntnu.edu/).
+
 
  * Follow me on [Twitter](https://twitter.com/Karlockert)
  
