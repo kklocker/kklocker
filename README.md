@@ -11,7 +11,10 @@
 
 #### About
 
-MSc. in Physics -- Cond.mat from [NTNU](https://www.ntnu.edu/).
+
+.NET full stack developer.
+
+MSc. in Physics -- Cond.mat from [NTNU](https://www.ntnu.edu/). 
 
 
  * Follow me on [Twitter](https://twitter.com/Karlockert)
