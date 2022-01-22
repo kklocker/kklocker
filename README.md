@@ -1,25 +1,16 @@
 ## Hi there 👋
 
-<br />
-<a href="https://twitter.com/Karlockert">
-  <img align="left" alt="Karlockert" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/karlockert">
-  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<br />
+
+![](https://img.shields.io/github/followers/kklocker?label=%40kklocker&style=social)
+![](https://img.shields.io/twitter/follow/karlockert?label=%40karlockert&style=social)
+![](https://img.shields.io/badge/-@karlockert-white?style=flat&logo=linkedin&logoColor=2867B2)
+
 
 #### About
 
+Fullstack  developer, mostly .NET & Angular
 
-.NET full stack developer.
-
-MSc. in Physics -- Cond.mat from [NTNU](https://www.ntnu.edu/). 
-
-
- * Follow me on [Twitter](https://twitter.com/Karlockert)
- 
- * Reach me at karladlock (at) gmail.com or kklocker (at) stud.ntnu.no
+🎓 MSc. in Physics -- Cond.mat from [NTNU](https://www.ntnu.edu/). 
  
 #### Lecture notes
 I am hosting transcribed lecture notes for two different courses on my page:
