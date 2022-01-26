@@ -3,7 +3,7 @@
 
 [![](https://img.shields.io/github/followers/kklocker?label=%40kklocker&style=social)](https://github.com/kklocker)
 [![](https://img.shields.io/twitter/follow/karlockert?label=%40karlockert&style=social)](https://twitter.com/karlockert)
-[![](https://img.shields.io/badge/-@karlockert-white?style=flat&logo=linkedin&logoColor=2867B2)](https://www.linkedin.com/in/karlockert)
+[![](https://img.shields.io/badge/-@karlockert-white?style=flat&logo=linkedin&logoColor=2867B2)](https://www.linkedin.com/in/karlockert/)
 
 
 #### About
