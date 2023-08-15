@@ -8,7 +8,7 @@
 
 #### About
 
-Fullstack  developer, mostly .NET & Angular
+Fullstack  developer, mostly .NET & Angular but keen to learn anything
 
 🎓 MSc. in Physics -- Cond.mat from [NTNU](https://www.ntnu.edu/). 
  
